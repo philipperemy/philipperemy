@@ -1,4 +1,4 @@
-### Solving Artificial Intelligence one step at time 👋
+### Solving Artificial Intelligence one step at a time 👋
 
 [![Philippe's github stats](https://github-readme-stats.vercel.app/api?username=philipperemy&theme=vue)](https://github.com/philipperemy)
 
